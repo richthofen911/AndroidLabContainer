@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/LabContainer.iml" filepath="$PROJECT_DIR$/LabContainer.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/cachingbitmaps/cachingbitmaps.iml" filepath="$PROJECT_DIR$/cachingbitmaps/cachingbitmaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databaseupgrade/databaseupgrade.iml" filepath="$PROJECT_DIR$/databaseupgrade/databaseupgrade.iml" />
       <module fileurl="file://$PROJECT_DIR$/useloader/useloader.iml" filepath="$PROJECT_DIR$/useloader/useloader.iml" />
     </modules>
   </component>

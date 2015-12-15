@@ -43,7 +43,7 @@ public class ActivityMain extends AppCompatActivity implements LoaderManager.Loa
                 android.R.layout.simple_list_item_2, null,
                 new String[] { ContactsContract.Contacts.DISPLAY_NAME, ContactsContract.Contacts.CONTACT_STATUS },
                 new int[] { android.R.id.text1, android.R.id.text2 }, 0);
-        listView.setListAdapter(mAdapter);
+        listView.setAdapter(mAdapter);
         loader = getLoaderManager().initLoader(0, null, this);
     }
 
